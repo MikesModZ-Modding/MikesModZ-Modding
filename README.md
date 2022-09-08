@@ -1,4 +1,9 @@
-- 👋 Hi, I’m Mike! With my label MikesModZ i will be creating Mods for the GTA Roleplay Community!
+- 👋 Hi, I’m Mike!
+- I am a german developer.
+
+- With my label MikesModZ i will be creating and/or editing via Github scripts for:
+      -> GTA Roleplay; FiveM and Alt:V
+      -> Heroes of Newerth
 - 🌱 I’m currently learning.
 
 <!---
