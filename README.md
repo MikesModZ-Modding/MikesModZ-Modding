@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Mike!
-- I am a german developer.
+- I am a german hobby developer.
 
 - With my label MikesModZ i will be creating and/or editing scripts for:
-      -> GTA Roleplay; FiveM and Alt:V
-      -> Heroes of Newerth
+      -> GTA Roleplay
 - 🌱 I’m currently learning.
 
 <!---
